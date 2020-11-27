@@ -1,6 +1,5 @@
 # Lexical-Normalisation-of-Twitter-Data
 
-- Author     : Vedant Chauhan<br>
 This file, which describes problem context, program implementation details, procedure to execute program, files used in program, 
 output details and references and required material.
 
